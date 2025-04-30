@@ -14,3 +14,4 @@ inst/doc
 
 *.dcf
 *.Rprof
+/microsim_simple_example
